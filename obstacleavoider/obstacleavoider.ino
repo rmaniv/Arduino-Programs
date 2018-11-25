@@ -37,9 +37,9 @@ if (distance = 20) //If an obstacle is detected at a distacle of 20 cm.
   
   //Move Foreward
   analogWrite(leftMotorf, 140);
-  analogWrite(leftMotorb, 140);
+  analogWrite(leftMotorb, 0);
   analogWrite(rightMotorf, 140);
-  analogWrite(rightMotorb, 140);
+  analogWrite(rightMotorb, 0);
   delay(2500);
   
   //Turn Left

@@ -28,7 +28,7 @@ float p;
 float i;
 float d;
 float lp;
-int error;
+float error;
 int correction;
 float sp;
 

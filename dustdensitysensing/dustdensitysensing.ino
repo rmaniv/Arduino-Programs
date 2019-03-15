@@ -1,5 +1,5 @@
 /*
- * This program measures the PM2.5 values using an Optical Dusty Sensor.
+ * This program measures the PM2.5 values using an Optical Dust Sensor.
  * Developer: Vinamr L. Sachdeva
  */
 

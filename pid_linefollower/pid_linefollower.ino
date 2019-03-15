@@ -54,6 +54,8 @@ void setup()
   pinMode(rmb, OUTPUT);
   pinMode(lmf, OUTPUT);
   pinMode(lmb, OUTPUT);
+  
+  Serial.begin(9600);
 
   //finding set point
 

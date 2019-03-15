@@ -1,3 +1,8 @@
+/*
+ * This program measures the PM2.5 values using an Optical Dusty Sensor.
+ * Developer: Vinamr L. Sachdeva
+ */
+
 int measurePin = A0;
 int ledPower = 12;
  

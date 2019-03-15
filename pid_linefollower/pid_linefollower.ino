@@ -29,7 +29,7 @@ float i;
 float d;
 float lp;
 float error;
-int correction;
+float correction;
 float sp;
 
 float Kp = 5;
